@@ -1,0 +1,11 @@
+name = "chezz-billing"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+# Price ids and the project id are not secret, so they live here.
+# The Stripe webhook secret and the Google service account are set with `wrangler secret put`.
+[vars]
+FIREBASE_PROJECT_ID = "chezz-game3"
+PRICE_SILVER = "price_REPLACE_ME_SILVER"
+PRICE_GOLD = "price_REPLACE_ME_GOLD"
+PRICE_RUBY = "price_REPLACE_ME_RUBY"

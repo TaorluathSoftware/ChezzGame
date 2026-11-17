@@ -1,0 +1,23 @@
+sel 35
+color 0
+learn 1
+tc 0
+thoughts 0
+rec 0 2 2 1
+rec 1 1 0 0
+rec 2 1 0 0
+rec 3 1 0 0
+rec 4 1 0 0
+rec 5 2 0 0
+rec 6 1 0 0
+rec 7 1 0 0
+rec 8 1 0 0
+rec 9 1 3 0
+rec 10 1 0 0
+rec 29 1 0 0
+rec 34 0 0 1
+rec 35 0 0 1
+rec 40 0 1 0
+rec 47 1 0 2
+rec 58 1 0 0
+rec 149 0 0 1
